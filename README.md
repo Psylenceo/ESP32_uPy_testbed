@@ -11,3 +11,4 @@ ESP32_uPy_testbed is ment as a storage and OTA software holder for a project mys
 
 Don't pay attention to hte version number listed in the print() on the main.py code, it's just there so I can make sure that when the OTA update says the current pulled software is update I can confirm it.
 ![alt text](https://github.com/Psylenceo/ESP32_uPy_testbed/blob/main/ESp32%20io%20layout.png)
+![alt text](https://github.com/Psylenceo/ESP32_uPy_testbed/blob/main/51%2BsDkkl9wL._AC_.jpg)
