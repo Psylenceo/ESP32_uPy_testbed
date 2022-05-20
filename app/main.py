@@ -1,7 +1,7 @@
 from machine import Pin, PWM, UART
 
 print()
-print("Hello this is v0.7a")
+print("Hello this is v0.7.1a")
 print()
 
 led_pwm = PWM(Pin(2))
@@ -12,7 +12,7 @@ print()
 print("Is it flashing yet?")
 print()
 
-gps = UART(1, baudrate=115200)
+gps = UART(2, baudrate=115200)
 print(gps.read(72))
 print(gps.read(72))
 print(gps.read(72))
