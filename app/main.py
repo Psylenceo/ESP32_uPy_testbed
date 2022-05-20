@@ -1,7 +1,7 @@
 from machine import Pin, PWM, UART
 
 print()
-print("Hello this is v0.6a")
+print("Hello this is v0.7a")
 print()
 
 led_pwm = PWM(Pin(2))
