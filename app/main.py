@@ -16,7 +16,9 @@ print()
 print("Is it flashing yet?")
 print()
 
-for x in raw_gps.read(1000):
+gps_data = raw_gps.read(1000)
+
+for x in gps_data
     gps.update(x)
 print(gps.longitude)
 print(gps.latitude)
