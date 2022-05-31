@@ -10,6 +10,6 @@ ESP32_uPy_testbed is ment as a storage and OTA software holder for a project mys
 -Right now there is also the pinout image for the module to make it easier for me to decide where to place IO resources and for what I can and cannout incorperate.
 
 Don't pay attention to hte version number listed in the print() on the main.py code, it's just there so I can make sure that when the OTA update says the current pulled software is update I can confirm it.
-![alt text](https://github.com/Psylenceo/ESP32_uPy_testbed/blob/main/ESp32%20io%20layout.png)
-![alt text](https://github.com/Psylenceo/ESP32_uPy_testbed/blob/main/Pin%20layout.png)
-![alt text](https://github.com/Psylenceo/ESP32_uPy_testbed/blob/main/51%2BsDkkl9wL._AC_.jpg)
+![alt text](https://github.com/Psylenceo/ESP32_uPy_testbed/blob/main/Images/ESp32%20io%20layout.png)
+![alt text](https://github.com/Psylenceo/ESP32_uPy_testbed/blob/main/Images/Pin%20layout.png)
+![alt text](https://github.com/Psylenceo/ESP32_uPy_testbed/blob/main/Images/51%2BsDkkl9wL._AC_.jpg)
